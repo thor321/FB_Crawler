@@ -1,6 +1,6 @@
 **NPA_HFIAP_506－Table Schema**
 
-[POLICE_STATION—派出所](#POLICE_STATION—派出所)  
+[POLICE_STATION—派出所](#police_station—派出所)  
 [CAMERA—監視器](#CAMERA—監視器)
 
 
